@@ -22,7 +22,7 @@ We applied various machine learning models, including:
 - **Logistic Regression** with Lasso regularization
 - **Random Forest**
 
-Model performance was assessed using accuracy, precision, recall, and F1 score. Details on handling missing values, outliers, and feature selection are included in the [project report](#).
+Model performance was assessed using accuracy, precision, recall, and F1 score. Details on handling missing values, outliers, and feature selection are included in the [project report](ALY 6110_Final_Report.pdf).
 
 ## Results
 The Logistic Regression model with Lasso regularization yielded the highest accuracy (99.47%) and precision (99.42%), proving to be the most effective in predicting item popularity. Detailed results and performance metrics for all models can be found in the [results section](#).
